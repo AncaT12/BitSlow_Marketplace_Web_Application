@@ -9,3 +9,5 @@ I really enjoyed building the marketplace. Designing the dynamic user interface 
 Suggestions for Improvement:
 
 I suggest enhancing error handling across both layers of the application and incorporating automated tests for critical functionalities. Additionally, refactoring the code for better modularity and performance—especially in managing state and data fetching—would improve maintainability. Overall, this project offered a valuable hands-on experience in integrating and combining various technologies to build a complete, cohesive application.
+
+Link to video: https://ctipub-my.sharepoint.com/:f:/g/personal/anca_tomescu1211_stud_acs_upb_ro/Ei3J3AyF_rBKuNQhLpB8j24Br6YsdSaDKSKSlqR-qjKjVQ?e=t3bqCC
